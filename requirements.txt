@@ -1,0 +1,7 @@
+python-telegram-bot==10.1.0
+apscheduler==3.5.0
+emoji==0.4.5
+xlsxwriter==1.0.2
+telegram==0.0.1
+python-openstackclient==3.14.0
+python-neutronclient==6.7.0

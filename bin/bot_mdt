@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+from telebot import main
+import argparse
+
+
+parser = argparse.ArgumentParser(description="Run the telebot for Telegram")
+parser.add_argument('--config-file', dest='config_file', required=True,
+                    help='Path of config file')
+args = parser.parse_args()
+
+main(args)
