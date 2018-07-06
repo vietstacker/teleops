@@ -1,4 +1,4 @@
-# Telebot for Meditech
+# Telebot and 
 
 A [Telegram](https://telegram.org/) Bot written in Python (Work-In-Progress)
 
@@ -70,7 +70,7 @@ enable_service q-l3,q-meta,q-dhcp
 
 `./stack.sh`
 
-## Cài đặt bot_mdt
+## Cài đặt BOT
 
 - Yêu cầu: 
 
