@@ -1,5 +1,5 @@
-IP = '192.168.100.114'
-USERNAME = 'admin'
-PASSWORD = 'locdev'
-PROJECT_NAME = 'admin'
+IP = ''
+USERNAME = ''
+PASSWORD = ''
+PROJECT_NAME = ''
 AUTH_URL = 'http://{}/identity/v3'.format(IP)
