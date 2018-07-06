@@ -80,7 +80,7 @@ enable_service q-l3,q-meta,q-dhcp
 1. Tải repo và cài đặt requirements:
 
 ```
-git clone https://github.com/locvx1234/bot_mdt.git
+git https://github.com/vietstacker/teleops.git
 cd teleops
 sudo pip3 install -r requirements.txt
 ```
