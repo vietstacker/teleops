@@ -1,4 +1,4 @@
-# Telebot for Meditech
+# Telebot and OpenStack 
 
 A [Telegram](https://telegram.org/) Bot written in Python (Work-In-Progress)
 
@@ -70,12 +70,13 @@ enable_service q-l3,q-meta,q-dhcp
 
 `./stack.sh`
 
-## Cài đặt bot_mdt
+## Cài đặt BOT
 
 - Yêu cầu: 
 
     + Python3
     + Đã tạo được bot trong telegram và lấy token 
+    + Tham khảo link https://github.com/hocchudong/ghichep-telegram-bot/blob/master/docs/tele_bot_intro.md
 
 1. Tải repo và cài đặt requirements:
 
